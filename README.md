@@ -27,8 +27,8 @@
 
 <div>
   <a href="https://github.com/arthurlopes-ads">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurLopes-Ads&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLopes-Ads&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlopes-ads&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlopes-ads&layout=compact&langs_count=16&theme=dark"/>
 </div>
 </body>
 </html>
